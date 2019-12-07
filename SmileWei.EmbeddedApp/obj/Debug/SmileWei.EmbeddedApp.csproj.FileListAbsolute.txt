@@ -12,3 +12,10 @@ C:\Users\Administrator\Desktop\复习\vsto\keshe\Moin_SerialPort\Moin_SerialPort
 C:\Users\Administrator\Desktop\复习\vsto\keshe\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\复习\vsto\keshe\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
 C:\Users\Administrator\Desktop\复习\vsto\keshe\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+F:\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+F:\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+F:\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+F:\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.csproj.CoreCompileInputs.cache
+F:\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+F:\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+F:\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.csprojAssemblyReference.cache

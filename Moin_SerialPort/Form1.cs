@@ -739,14 +739,21 @@ namespace Moin_SerialPort
                 
             }
         }
+
         //bin文件发送
         public byte[] buff;
         public byte[] data_buff;
         public byte[] crc_buff;
         private void metroButton3_Click(object sender, EventArgs e)
         {
-            Byte id_high = Convert.ToByte(metroTextBox1.Text.Trim());
-            Byte id_low = Convert.ToByte(metroTextBox4.Text.Trim());
+            this.BeginInvoke(new MethodInvoker(delegate
+            {
+                
+            
+            char[] high=metroTextBox1.Text.Trim().ToCharArray();
+            char[] low = metroTextBox1.Text.Trim().ToCharArray();
+            Byte id_high =(Byte)((int)(Convert.ToByte(high[0])*256)+(int)Convert.ToByte(high[1]));
+            Byte id_low = (Byte)((int)(Convert.ToByte(low[0]) * 256) + (int)Convert.ToByte(low[1]));
             crc_buff = new byte[2] { 0x00, 0x00 };
             FileStream Myfile = new FileStream(openFile_path.Trim(), FileMode.Open, FileAccess.Read);
             BinaryReader binreader = new BinaryReader(Myfile);
@@ -832,6 +839,7 @@ namespace Moin_SerialPort
             //lunxunsend(byte1, byte2);
             //System.Threading.Thread.Sleep(5000);
             metroTextBox2.Text = "OK";
+            }));
         }
 
         //内嵌应用打开//resmon.exe mspaint.exe control.exe calc.exe
