@@ -1,0 +1,4 @@
+{information,6}:[head,2][information,2][crc16,2]|
+{information,8}:[head,2][information,4][crc16,2]|
+{information,10}:[head,2][information,6][crc16,2]|
+{information,12}:[head,2][information,8][crc16,2]|
