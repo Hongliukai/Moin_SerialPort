@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\复习\vsto\keshe\新建文件夹\AppContainer-master\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+C:\Users\Administrator\Desktop\复习\vsto\keshe\新建文件夹\AppContainer-master\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+C:\Users\Administrator\Desktop\复习\vsto\keshe\新建文件夹\AppContainer-master\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+C:\Users\Administrator\Desktop\复习\vsto\keshe\新建文件夹\AppContainer-master\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\复习\vsto\keshe\新建文件夹\AppContainer-master\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+C:\Users\Administrator\Desktop\复习\vsto\keshe\新建文件夹\AppContainer-master\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+C:\Users\Administrator\Desktop\复习\vsto\keshe\新建文件夹\AppContainer-master\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\复习\vsto\keshe\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+C:\Users\Administrator\Desktop\复习\vsto\keshe\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+C:\Users\Administrator\Desktop\复习\vsto\keshe\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+C:\Users\Administrator\Desktop\复习\vsto\keshe\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\复习\vsto\keshe\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\复习\vsto\keshe\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+C:\Users\Administrator\Desktop\复习\vsto\keshe\Moin_SerialPort\Moin_SerialPort\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb

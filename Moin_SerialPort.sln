@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moin_SerialPort", "Moin_SerialPort\Moin_SerialPort.csproj", "{BC1C6AAB-D1D1-4028-8C24-272E50810DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmileWei.EmbeddedApp", "SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.csproj", "{90B74ADF-891A-47E2-922C-450BE2271164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1C6AAB-D1D1-4028-8C24-272E50810DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1C6AAB-D1D1-4028-8C24-272E50810DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1C6AAB-D1D1-4028-8C24-272E50810DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1C6AAB-D1D1-4028-8C24-272E50810DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B74ADF-891A-47E2-922C-450BE2271164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B74ADF-891A-47E2-922C-450BE2271164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B74ADF-891A-47E2-922C-450BE2271164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B74ADF-891A-47E2-922C-450BE2271164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25602129-7FE5-4BA3-8147-F4B38D2E2333}
+	EndGlobalSection
+EndGlobal
